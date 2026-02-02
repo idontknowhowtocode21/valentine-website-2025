@@ -12,10 +12,7 @@ const CONFIG = {
     pageTitle: "Will You Be My Valentine? 💝",
 
     // Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+    // Find more emojis at: https://emojipedia.org    
     },
 
     // Questions and answers
